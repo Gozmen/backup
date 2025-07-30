@@ -1,5 +1,6 @@
 #!/bin/bash
 #Konfigurace
+#TEST
 BACKUP_FOLDER=("test_backup")
 DESTINATION_BACKUP_FOLDER="$HOME/backups"
 LOG="logs/backup.log"
